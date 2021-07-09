@@ -1,2 +1,2 @@
 # SecondProject
-My second project for CF. Learning Git.
+My second project for CF. Learning Git. Hello Everyone.
